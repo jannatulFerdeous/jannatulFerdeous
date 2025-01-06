@@ -24,6 +24,16 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 </p>
 
 <br>
+
+# :bulb: Advance Python Libraries
+
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,tensorflow,matplotlib" />
+  </a>
+</p>
+
+<br>
 <br>
 
 # 🚀 **Current Github Status**:
