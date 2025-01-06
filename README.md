@@ -9,7 +9,7 @@
 
 - 💻 **Tech Stack:** I bring ideas to life using:
 
-    -Frontend Frameworks: React, Next.js
+    -**Frontend Frameworks**: React, Next.js
     
     -Programming Languages: JavaScript, TypeScript
     
