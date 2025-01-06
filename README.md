@@ -1,13 +1,27 @@
 
 </br>
 
-# Hello, Jannatul Ferdeous! 👋
+# Hi, This is Jannatul Ferdeous! 👋
 
-I'm a frontend developer with a passion for React, dedicated to shaping dynamic and seamless web experiences. Constantly evolving, I am committed to continuous learning and innovation in the ever-changing landscape of web development.
+💼I'm a working on Task Technology as Frontend Developer. Passionate about Reactjs, dedicated to shaping dynamic and seamless web experiences. I love to create new website beacause it satisfied me a lot. Constantly evolving, I am committed to continuous learning and innovation in the ever-changing landscape of web development.
 
 - 🚀 **Current Focus:** I am currently exploring and mastering the intricacies of React to elevate my skills and create compelling user interfaces.
 
-- 💻 **Tech Stack:** My toolkit includes React, JavaScript, HTML, and CSS. I believe in the power of clean code and am committed to staying current with industry best practices.
+- 💻 **Tech Stack:** I bring ideas to life using:
+
+Frontend Frameworks: React, Next.js
+
+Programming Languages: JavaScript, TypeScript
+
+Styling Tools: Tailwind CSS, CSS3, HTML5, Bootstrap
+
+State Management: Redux Toolkit
+
+Version Control: Git, GitHub
+
+Design Tools: Figma
+
+AI & ML: PyTorch, TensorFlow
 
 - 🌐 **Let's Connect:** Excited about building the future of the web together! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/jannatulferdeous/) or **jannatul.gub@gmail.com**.
 
