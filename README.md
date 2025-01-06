@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="100%" src="https://github.com/jannatulFerdeous/jannatulFerdeous/blob/main/github.png?raw=true"/></a>
+<a href="#"><img width="100%" height="100%" src="https://github.com/jannatulFerdeous/jannatulFerdeous/blob/main/banner.png?raw=true"/></a>
 
 </br>
 
