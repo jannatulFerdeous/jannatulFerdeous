@@ -19,7 +19,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,next,tailwind,mongo,firebase,express,nodejs,materialui,vite,html,css,git,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=react,js,next,tailwind,materialui,vite,html,css,git,vscode,github,figma" />
   </a>
 </p>
 
