@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="100%" src="https://raw.githubusercontent.com/fahim-khandakar/fahim-khandakar/staging/images/cover/github-header-image%20(1).png"/></a>
+
 </br>
 
 # Hello, Jannatul Ferdeous! 👋
