@@ -14,6 +14,15 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 ✨ **Let's Code:** Happy coding! 🚀
 
 <br/>
+# :bulb: Languages
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="c,js,python,java" />
+  </a>
+</p>
+
+<br>
 
 # :bulb: Tools And Technologies
 
