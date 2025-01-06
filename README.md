@@ -9,19 +9,19 @@
 
 - 💻 **Tech Stack:** I bring ideas to life using:
 
-Frontend Frameworks: React, Next.js
-
-Programming Languages: JavaScript, TypeScript
-
-Styling Tools: Tailwind CSS, CSS3, HTML5, Bootstrap
-
-State Management: Redux Toolkit
-
-Version Control: Git, GitHub
-
-Design Tools: Figma
-
-AI & ML: PyTorch, TensorFlow
+    -Frontend Frameworks: React, Next.js
+    
+    -Programming Languages: JavaScript, TypeScript
+    
+    -Styling Tools: Tailwind CSS, CSS3, HTML5, Bootstrap
+    
+    -State Management: Redux Toolkit
+    
+    -Version Control: Git, GitHub
+    
+    -Design Tools: Figma
+    
+    -AI & ML: PyTorch, TensorFlow
 
 - 🌐 **Let's Connect:** Excited about building the future of the web together! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/jannatulferdeous/) or **jannatul.gub@gmail.com**.
 
