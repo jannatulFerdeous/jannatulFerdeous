@@ -29,7 +29,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,tensorflow,matplotlib" />
+    <img src="https://skillicons.dev/icons?i=NumPy,pandas,pytorch,tensorflow,keras" />
   </a>
 </p>
 
