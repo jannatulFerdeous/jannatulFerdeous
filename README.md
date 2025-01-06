@@ -9,7 +9,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 - 💻 **Tech Stack:** My toolkit includes React, JavaScript, HTML, and CSS. I believe in the power of clean code and am committed to staying current with industry best practices.
 
-- 🌐 **Let's Connect:** Excited about building the future of the web together! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/fahimkhandakar01/) or **fahimkhandakar01@gmail.com**.
+- 🌐 **Let's Connect:** Excited about building the future of the web together! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/jannatulferdeous/) or **jannatul.gub@gmail.com**.
 
 ✨ **Let's Code:** Happy coding! 🚀
 
@@ -19,7 +19,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,next,tailwind,materialui,vite,html,css,git,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=react,js,next,typescript,redux,tailwind,vite,html,css,bootstrap,git,vscode,github,figma" />
   </a>
 </p>
 
