@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="100%" src="https://github.com/jannatulFerdeous/jannatulFerdeous/blob/main/banner.png?raw=true"/></a>
-![Visitor Count](https://komarev.com/ghpvc/?username=jannatulFerdeous)
 
 </br>
 
 # Hi, This is Jannatul Ferdeous! 👋
+![Visitor Count](https://komarev.com/ghpvc/?username=jannatulFerdeous)
 
 💼I'm a working on Task Technology as Frontend Developer. Passionate about Reactjs, dedicated to shaping dynamic and seamless web experiences. I love to create new website beacause it satisfied me a lot. Constantly evolving, I am committed to continuous learning and innovation in the ever-changing landscape of web development.
 
