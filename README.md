@@ -3,7 +3,8 @@
 </br>
 
 # Hi, This is Jannatul Ferdeous! 👋
-![Visitor Count](https://komarev.com/ghpvc/?username=jannatulFerdeous)
+![Visitor Count](https://komarev.com/ghpvc/?username=jannatulFerdeous&color=ff69b4&style=flat-square)
+
 
 💼I'm a working on Task Technology as Frontend Developer. Passionate about Reactjs, dedicated to shaping dynamic and seamless web experiences. I love to create new website beacause it satisfied me a lot. Constantly evolving, I am committed to continuous learning and innovation in the ever-changing landscape of web development.
 
