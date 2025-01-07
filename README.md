@@ -1,4 +1,5 @@
 <a href="#"><img width="100%" height="100%" src="https://github.com/jannatulFerdeous/jannatulFerdeous/blob/main/banner.png?raw=true"/></a>
+![Visitor Count](https://komarev.com/ghpvc/?username=jannatulFerdeous)
 
 </br>
 
