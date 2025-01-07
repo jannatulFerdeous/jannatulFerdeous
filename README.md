@@ -4,7 +4,7 @@
 
 # Hi, This is Jannatul Ferdeous! 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=jannatulFerdeous&color=ff69b4&style=flat-square)
-![Profile views](https://img.shields.io/badge/Visitor%20Count-2222-brightgreen?style=for-the-badge)
+
 
 
 
