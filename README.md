@@ -8,7 +8,7 @@
 
 
 
-💼I'm a working on Task Technology as Frontend Developer. Passionate about Reactjs, dedicated to shaping dynamic and seamless web experiences. I love to create new website beacause it satisfied me a lot. Constantly evolving, I am committed to continuous learning and innovation in the ever-changing landscape of web development.
+💼I'm a working on HubXpert as Frontend Developer. Passionate about Reactjs, dedicated to shaping dynamic and seamless web experiences. I love to create new website beacause it satisfied me a lot. Constantly evolving, I am committed to continuous learning and innovation in the ever-changing web development landscape.
 
 - 🚀 **Current Focus:** I am currently exploring and mastering the intricacies of React to elevate my skills and create compelling user interfaces.
 
